@@ -44,4 +44,4 @@ Melakukan analisa data (data analis) dengan python menggunakan metode ensemble c
 9. [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/N9ZO5OVD6PG5) (_Sep 2023 - Sep 2026_)
 
 **Future Skill UGM with citiasia inc**
-1. Smart & Sustainable Village (_Agu 2021 - Des 2021_)
+1. [Smart & Sustainable Village](https://media.licdn.com/dms/image/v2/D562DAQG52iaE6yDs4w/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1696398580795?e=1741978800&v=beta&t=ed1jcV2T-rFrJnOuBFgepNDiBLCZQ1V-6IhgPNKLh5c) (_Agu 2021 - Des 2021_)
