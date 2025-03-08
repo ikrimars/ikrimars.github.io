@@ -63,7 +63,7 @@ setelah melakukan percobaan model mencapai nilai:
 
 Digunakan model dengan menggunakan transfer learning MobileNetV2 dikarenakan data yang digunakan memiliki banyak data dilakukan fine-tuning untuk melatih layers model di dalamnya agar tidak terjadi overfitting.
 
-![Grafik](/assets/img/confussion matrix.png)
+![Grafik](/assets/img/confussion_matrix.png)
 
 ![Grafik](/assets/img/tabel_confussion.png)
 
