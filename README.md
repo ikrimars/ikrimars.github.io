@@ -22,15 +22,18 @@
 
 ## Organization
 ![gogc](/assets/img/gogc.png)
+
 **Gadjah Mada Oil and Gas Club (GOGC) | Bendahara Umum (_Jan 2019 - Jan 2021_)**
 - Manajemen keuangan dengan mengelola keuangan organisasi dan event YLEC
 termasuk perencanaan, penganggaran, pengawasan dan pelaporan keuangan.
 
 ![himatrik](/assets/img/himatrik.png)
+
 **HIMATRIK | Anggota Divisi Kastrad (_Jan 2020 - Des 2020_)**
 - Mengadakan forum untuk mendukung peningkatan wawasan ilmiah dan intelektual mahasiswa.
 
 ![kmdei](/assets/img/kmdei.png)
+
 **KMDEI | Anggota Divisi Kastrad (_Agu 2018 - Agu 2019_)**
 - Mengidentifikasi dan menyampaikan isu-isu strategis melalui forum kastrad,
 dan juga mendukung peningkatan wawasan ilmiah dan intelektual mahasiswa.
@@ -47,7 +50,7 @@ Melakukan analisa data (data analis) dengan python menggunakan metode ensemble c
 
 ![Tabel](/assets/img/Tabel.png)
 
-![Grafik](/assets/img/Grafik.png)
+![Grafik](/assets/img/grafik.png)
 
 ## Awards/ Activities
 **Peserta terbaik Future skill UGM with Citiasia Inc**
