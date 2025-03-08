@@ -52,6 +52,25 @@ Melakukan analisa data (data analis) dengan python menggunakan metode ensemble c
 
 ![Grafik](/assets/img/grafik.png)
 
+### Klasifikasi Gambar: dataset puneet6060/intel-image-classification
+
+![Grafik](/assets/img/grafikimg.png)
+
+terdapat 17034 dataset dengangn type object/gambar.
+setelah melakukan percobaan model mencapai nilai:
+- akurasi Train sebesar 92.47% dan loss 0.32826
+- akurasi Test sebesar 92.22% dan loss 0.30868
+
+Digunakan model dengan menggunakan transfer learning MobileNetV2 dikarenakan data yang digunakan memiliki banyak data dilakukan fine-tuning untuk melatih layers model di dalamnya agar tidak terjadi overfitting.
+
+![Grafik](/assets/img/confussion matrix.png)
+
+![Grafik](/assets/img/tabel_confussion.png)
+
+![Grafik](/assets/img/accuracy.png)
+
+![Grafik](/assets/img/loss.png)
+
 ## Awards/ Activities
 **Peserta terbaik Future skill UGM with Citiasia Inc**
 - Sebagai ketua tim FSF citiasia.inc melakukan manajemen rancangan blue print pembangunan desa berbasis teknologi serta mengimplementasikan langsung kepada ±10 perangkat perangkat desa di kabupaten sukabumi yang tertarik menjadi desa pintar berbasis teknologi.
