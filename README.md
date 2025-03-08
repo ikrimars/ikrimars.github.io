@@ -3,7 +3,7 @@
 #### Technical Skills: 
 - MS.Office(Word,Excel, Power point)
 - Programming (Python, C, C++, basic SQL, basic R, MATLAB)
-- Visualisasi Data
+- Visualisasi Data (originLab)
 
 ## Education
 - Sarjana Terapan Teknologi Rekayasa Instrumentasi dan Kontrol | Universitas Gadjah Mada (_Jul 2021 - Jul 2023_)								       		
@@ -15,18 +15,39 @@
 
 **Project Engineer @ Lembaga Penelitian Indonesia (BPI LIPI) Intern (_Jan 2021 - Mei 2021_)**
 - Mengembangkan Kendaraan Listrik Otononom (Autonomous Vehicle).
-- Deteksi Orientasi sensor IMU razor 9-DoF dengan filter dan algoritma.
+- Deteksi Orientasi sensor IMU razor 9-DoF yaitu deteksi pitch,roll, dan yaw dengan membandingkan trignometri algoritma, complement filter, dan Digital Motion Processor (DMP).
 
 **Instrumentation Engineer @ PT Pertamina Persero RU IV Intern (_Des 2019 - Jan 2020_)**
-- Analisa instrument safe guarding dengan P&ID serta cause effect Furnance.
+- Analisa instrument safe guarding dengan P&ID serta cause effect Furnance 11-F-101 unit CDU.
+
+## Organization
+![gogc](/assets/img/gogc.png)
+**Gadjah Mada Oil and Gas Club (GOGC) | Bendahara Umum (_Jan 2019 - Jan 2021_)**
+- Manajemen keuangan dengan mengelola keuangan organisasi dan event YLEC
+termasuk perencanaan, penganggaran, pengawasan dan pelaporan keuangan.
+
+![himatrik](/assets/img/himatrik.png)
+**HIMATRIK | Anggota Divisi Kastrad (_Jan 2020 - Des 2020_)**
+- Mengadakan forum untuk mendukung peningkatan wawasan ilmiah dan intelektual mahasiswa.
+
+![kmdei](/assets/img/kmdei.png)
+**KMDEI | Anggota Divisi Kastrad (_Agu 2018 - Agu 2019_)**
+- Mengidentifikasi dan menyampaikan isu-isu strategis melalui forum kastrad,
+dan juga mendukung peningkatan wawasan ilmiah dan intelektual mahasiswa.
 
 ## Projects
 ### Sistem VENOSE (Vocational E-Nose)
 [Komparasi Metode Ensemble Classifier pada Aroa Minyak Atsiri Jahe Berdasarkan Varietas Jahe Menggunakan Sistem E-Nose](https://etd.repository.ugm.ac.id/home/detail_pencarian_downloadfiles/1223472)
 
+![Sistem Venose](/assets/img/Venose.png)
+
 Melakukan analisa data (data analis) dengan python menggunakan metode ensemble classifier dalam pengolahan sinyal e-nose yaitu Gradient Boosting, AdaBoost, dan Random Forest  pada klasifikasi aroma minyak atsiri jahe menggunakan sistem e-nose dan mengembangkan aplikasi venose 3.0.exe serta dengan mengoperasikan mikroprosessor Raspberry PI. Dimana hasil klasifikasi memiliki nilai klasifikasi tertinggi pada Gradient Boosting Normalizer 93.33%, Random Forest Normalizer 91.11%, dan AdaBoost Normalizer 81,48%.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![PCA](/assets/img/PCA.png)
+
+![Tabel](/assets/img/Tabel.png)
+
+![Grafik](/assets/img/Grafik.png)
 
 ## Awards/ Activities
 **Peserta terbaik Future skill UGM with Citiasia Inc**
