@@ -78,12 +78,14 @@ Grafik menunjukkan hasil akurasi dan loss pada proses training data, sempat terj
 
 
 ![CharSen](/assets/img/char_sentimen.png)
+
 grafik menunjukkan hasi plotting sentimen positif 59.8% dan negatif 40.2% dari review aplikasi mypertamina sebanyak 10.000 data melalui playstore. beberapa hasil visualisasi ata-kata positif dan negatif ditunjukkan pada gambar di bawah ini.
 ![SenPost](/assets/img/sentiment_positif.png)
 
 ![SenNeg](/assets/img/sentimen_negatif.png)
 
 ![CharModel](/assets/img/char_model.png)
+
 Hasil training model analisis setimen menggunakan beberapa model machine learning menunjukkan Model Logistic Regression paling stabil untuk analisis sentimen, karena  sering digunakan dalam klasifikasi biner/multikategori teks. Hasil dari training model dapat digunakan untuk inference data baru.
 
 
