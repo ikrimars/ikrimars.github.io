@@ -22,7 +22,7 @@
 
 ## Organization
 ![gogc](/assets/img/gogc.png)
-<img src="/assets/img/gogc.png" alt="gogc" style="max-width: 50px; height: auto;">
+
 **Gadjah Mada Oil and Gas Club (GOGC) | Bendahara Umum (_Jan 2019 - Jan 2021_)**
 - Manajemen keuangan dengan mengelola keuangan organisasi dan event YLEC
 termasuk perencanaan, penganggaran, pengawasan dan pelaporan keuangan.
@@ -56,20 +56,26 @@ Melakukan analisa data (data analis) dengan python menggunakan metode ensemble c
 
 ![Grafik](/assets/img/grafikimg.png)
 
-terdapat 17034 dataset dengangn type object/gambar.
-setelah melakukan percobaan model mencapai nilai:
-- akurasi Train sebesar 92.47% dan loss 0.32826
-- akurasi Test sebesar 92.22% dan loss 0.30868
+Dataset intel image clasification memiliki 17034 dataset type object/gambar  dengan 6 label diantaranya: 'buildings', 'mountain', 'glacier', 'street', 'sea', 'forest'. Setelah split 80:20 menghasilkan Jumlah data training: 13627 dan Jumlah data testing : 3407. 
+Tahap preprocessing mencakup augmentasi data untuk meningkatkan variasi, akurasi, dan generalisasi, serta callback untuk menyamakan ukuran gambar. Data dibagi menjadi train (10.904 gambar), validation (2.723 gambar), dan test (3.407 gambar).
 
-Digunakan model dengan menggunakan transfer learning MobileNetV2 dikarenakan data yang digunakan memiliki banyak data dilakukan fine-tuning untuk melatih layers model di dalamnya agar tidak terjadi overfitting.
+Pada  Model Parameter Tunning digunakan transfer learning MobileNetV2 dikarenakan data yang digunakan memiliki banyak data dilakukan fine-tuning untuk melatih layers model di dalamnya agar tidak terjadi overfitting.
+
+![Grafik](/assets/img/accuracy.png)
+
+![Grafik](/assets/img/loss.png)
+
+Grafik menunjukkan hasil akurasi dan loss pada proses training data, sempat terjadi overfitting namun model berhasil memyesuaikan pelatihan model sehingga mendapatkan hasil akurasi yang baik data training (92.47%) maupun data test (92.22%) model tidak mengalami overfitting yang signifikan, dengan loss yang relatif rendah (training: 0.32826, test: 0.30868).Sehingga dapat diakukan inference terhadap data menggunakan model yang sudah di latih tersebut.
 
 ![Grafik](/assets/img/confussion_matrix.png)
 
 ![Grafik](/assets/img/tabel_confussion.png)
 
-![Grafik](/assets/img/accuracy.png)
+**Kesimpulannya:**
+- Model memiliki akurasi test sangat baik sebesar 0.9222 (92.22%) dari total 3.407 gambar dengan benar.
+- Model memiliki F1-score tertinggi pada kelas "Forest" (0.9882), menunjukkan model bekerja sangat baik pada gambar hutan.
+- Performa tidak merata antar kelas, pada "street" dan "Glacier" memiliki skor lebih rendah, mungkin karena kesamaan visual dengan kelas lain seperti street dan Mountain untuk kelas yang lebih sulit.
 
-![Grafik](/assets/img/loss.png)
 
 ## Awards/ Activities
 **Peserta terbaik Future skill UGM with Citiasia Inc**
