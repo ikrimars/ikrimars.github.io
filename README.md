@@ -21,7 +21,7 @@
 - Analisa instrument safe guarding dengan P&ID serta cause effect Furnance 11-F-101 unit CDU.
 
 ## Organization
-![gogc](/assets/img/gogc.png)
+![gogc](/assets/img/gogc.png){: style="max-width: 200px; height: auto;" }
 
 **Gadjah Mada Oil and Gas Club (GOGC) | Bendahara Umum (_Jan 2019 - Jan 2021_)**
 - Manajemen keuangan dengan mengelola keuangan organisasi dan event YLEC
