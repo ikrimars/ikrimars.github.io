@@ -22,7 +22,7 @@
 
 ## Organization
 ![gogc](/assets/img/gogc.png)
-<img src="/assets/img/gogc.png" alt="gogc" style="max-width: 200px; height: auto;">
+<img src="/assets/img/gogc.png" alt="gogc" style="max-width: 50px; height: auto;">
 **Gadjah Mada Oil and Gas Club (GOGC) | Bendahara Umum (_Jan 2019 - Jan 2021_)**
 - Manajemen keuangan dengan mengelola keuangan organisasi dan event YLEC
 termasuk perencanaan, penganggaran, pengawasan dan pelaporan keuangan.
