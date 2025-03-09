@@ -3,7 +3,7 @@
 #### Technical Skills: 
 - MS.Office(Word,Excel, Power point)
 - Programming (Python, C, C++, basic SQL, basic R, MATLAB)
-- Visualisasi Data (originLab)
+- Visualisasi Data (originLab, python (matplotlib, seaborn, tkinter(GUI)))
 
 ## Education
 - Sarjana Terapan Teknologi Rekayasa Instrumentasi dan Kontrol | Universitas Gadjah Mada (_Jul 2021 - Jul 2023_)								       		
@@ -38,11 +38,13 @@ dan juga mendukung peningkatan wawasan ilmiah dan intelektual mahasiswa.
 
 ![Sistem Venose](/assets/img/Venose.png)
 
-Melakukan analisa data (data analis) dengan python menggunakan metode ensemble classifier dalam pengolahan sinyal e-nose yaitu Gradient Boosting, AdaBoost, dan Random Forest  pada klasifikasi aroma minyak atsiri jahe menggunakan sistem e-nose dan mengembangkan aplikasi venose 3.0.exe serta dengan mengoperasikan mikroprosessor Raspberry PI. Dimana hasil klasifikasi memiliki nilai klasifikasi tertinggi pada Gradient Boosting Normalizer 93.33%, Random Forest Normalizer 91.11%, dan AdaBoost Normalizer 81,48%.
+Melakukan analisa data (data analis) dengan python menggunakan metode ensemble classifier dalam pengolahan sinyal e-nose yaitu Gradient Boosting, AdaBoost, dan Random Forest  pada klasifikasi aroma minyak atsiri jahe menggunakan sistem e-nose dan mengembangkan aplikasi venose 3.0.exe serta dengan mengoperasikan mikroprosessor Raspberry PI.
 
 ![PCA](/assets/img/PCA.png)  ![Tabel](/assets/img/Tabel.png) 
 
 ![Grafik](/assets/img/grafik.png)
+
+Digunakan analisa multivariat persebaran data dengan menggunakan PCA dengan PC1 46.37% dan PC2 12.84% variabilitas data menunjukkan data tersebut tumpang tindih satu sama lain maka dari itu diperlukan tahap prapremprosesan data untuk melakukan klasifikasi. Hasil metode klasifikasi memiliki nilai klasifikasi tertinggi pada Gradient Boosting Normalizer 93.33%, Random Forest Normalizer 91.11%, dan AdaBoost Normalizer 81,48%.
 
 ### Klasifikasi Gambar: dataset puneet6060/intel-image-classification
 
@@ -60,8 +62,6 @@ Pada  Model Parameter Tunning digunakan transfer learning MobileNetV2 dikarenaka
 Grafik menunjukkan hasil akurasi dan loss pada proses training data, sempat terjadi overfitting namun model berhasil memyesuaikan pelatihan model sehingga mendapatkan hasil akurasi yang baik data training (92.47%) maupun data test (92.22%) model tidak mengalami overfitting yang signifikan, dengan loss yang relatif rendah (training: 0.32826, test: 0.30868).Sehingga dapat diakukan inference terhadap data menggunakan model yang sudah di latih tersebut.
 
 ![Grafik](/assets/img/confussion_matrix.png)
-
-![Grafik](/assets/img/tabel_confussion.png)
 
 **Kesimpulannya:**
 - Model memiliki akurasi test sangat baik sebesar 0.9222 (92.22%) dari total 3.407 gambar dengan benar.
