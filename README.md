@@ -74,12 +74,24 @@ Grafik menunjukkan hasil akurasi dan loss pada proses training data, sempat terj
 - Model memiliki F1-score tertinggi pada kelas "Forest" (0.9882), menunjukkan model bekerja sangat baik pada gambar hutan.
 - Performa tidak merata antar kelas, pada "street" dan "Glacier" memiliki skor lebih rendah, mungkin karena kesamaan visual dengan kelas lain seperti street dan Mountain untuk kelas yang lebih sulit.
 
+## Analisis Sentiment Penggunaan Aplikasi MyPertamina untuk Memahami Opini Publik
+
+
+![CharSen](/assets/img/Char_sentimen.png)
+grafik menunjukkan hasi plotting sentimen positif 59.8% dan negatif 40.2% dari review aplikasi mypertamina sebanyak 10.000 data melalui playstore. beberapa hasil visualisasi ata-kata positif dan negatif ditunjukkan pada gambar di bawah ini.
+![SenPost](/assets/img/sentimen_positif.png)
+
+![SenNeg](/assets/img/Sentimen_negatif.png)
+
+![CharModel](/assets/img/char_model.png)
+Hasil training model analisis setimen menggunakan beberapa model machine learning menunjukkan Model Logistic Regression paling stabil untuk analisis sentimen, karena  sering digunakan dalam klasifikasi biner/multikategori teks. Hasil dari training model dapat digunakan untuk inference data baru.
+
 
 ## Awards/ Activities
 **Peserta terbaik Future skill UGM with Citiasia Inc**
 - Sebagai ketua tim FSF citiasia.inc melakukan manajemen rancangan blue print pembangunan desa berbasis teknologi serta mengimplementasikan langsung kepada ±10 perangkat perangkat desa di kabupaten sukabumi yang tertarik menjadi desa pintar berbasis teknologi.
 
-## Pelatihan
+## Training
 **Dicoding**
 1. [Belajar Pengembangan Machine Learning](https://www.dicoding.com/certificates/1OP822W22PQK) (_Feb 2025 - Feb 2028_)
 2. [Belajar Dasar Data Science](https://www.dicoding.com/certificates/L4PQ54JLOZO1) (_Okt 2024 - Okt 2027_)
