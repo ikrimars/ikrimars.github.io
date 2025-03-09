@@ -1,5 +1,11 @@
 # Data Scientist and Analyst
 
+## Contact Me
+- 📧 Email: ikrimarai13@gmail.com
+- 🔗 [GitHub](https://github.com/ikrimars)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ikrimaraisaiddah)
+- 📍 Kota Sukabumi, Jawa Barat.
+  
 #### Technical Skills: 
 - MS.Office(Word,Excel, Power point)
 - Programming (Python, C, C++, basic SQL, basic R, MATLAB)
