@@ -2,3 +2,13 @@ title: Ikrima Rai Saiddah
 logo: /assets/img/Cphoto_ikrima.png
 show_downloads: true
 theme: jekyll-theme-minimal
+author:
+  name    : "Ikrima Rai Saiddah"
+  avatar  : "/assets/img/Cphoto_ikrima.png"
+  bio     : "learn"
+  location: "Kota Sukabumi, Jawa Barat"
+  employer: "Gadah Mada University"
+  email   : "ikrimarai13@gmail.com"
+  github:
+  linkedln:
+  
