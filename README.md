@@ -46,7 +46,9 @@ dan juga mendukung peningkatan wawasan ilmiah dan intelektual mahasiswa.
 
 Melakukan analisa data (data analis) dengan python menggunakan metode ensemble classifier dalam pengolahan sinyal e-nose yaitu Gradient Boosting, AdaBoost, dan Random Forest  pada klasifikasi aroma minyak atsiri jahe menggunakan sistem e-nose dan mengembangkan aplikasi venose 3.0.exe serta dengan mengoperasikan mikroprosessor Raspberry PI. Dimana hasil klasifikasi memiliki nilai klasifikasi tertinggi pada Gradient Boosting Normalizer 93.33%, Random Forest Normalizer 91.11%, dan AdaBoost Normalizer 81,48%.
 
-![PCA](/assets/img/PCA.png) | ![Tabel](/assets/img/Tabel.png) | ![Grafik](/assets/img/grafik.png)
+![PCA](/assets/img/PCA.png)  ![Tabel](/assets/img/Tabel.png) 
+
+![Grafik](/assets/img/grafik.png)
 
 ### Klasifikasi Gambar: dataset puneet6060/intel-image-classification
 
